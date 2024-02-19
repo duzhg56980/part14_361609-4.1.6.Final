@@ -1,0 +1,6 @@
+import io.netty.handler.ssl.SslContext;
+public class FunctionUse325 {
+public void funcUse() {
+SslContext sslcontext = new SslContext();
+}
+}
